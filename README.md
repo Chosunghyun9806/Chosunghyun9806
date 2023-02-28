@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Sunghyun_git&fontSize=70)
 
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **Chosunghyun9806/Chosunghyun9806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
