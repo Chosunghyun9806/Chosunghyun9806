@@ -3,7 +3,12 @@
 </div>
 
 ***
+<div align=center>
+	<h3>🧒 About me 🧒</h3>
+	<a href="https://cobalt-system-7c5.notion.site/c8c77ac1832541268ab4eceb0e3bd2ad"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+</div>
 	
+<br>
 <div align=center>
 	<h3>🔨 Skills 🔨</h3>
 	<p>✨ Languages ✨</p>
@@ -38,8 +43,6 @@
 </div>
 
 <div align="center">
-	<a href="https://cobalt-system-7c5.notion.site/c8c77ac1832541268ab4eceb0e3bd2ad"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-	<br>
 	<img src="https://img.shields.io/badge/chojs6554@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>
 	<br>
 	<a href="https://www.instagram.com/_hyune98/"><img src="https://img.shields.io/badge/@hyune98-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
