@@ -11,7 +11,6 @@
 <br>
 <div align=center>
 	<h3>🔨 Skills 🔨</h3>
-	<p>✨ Languages ✨</p>
 </div>
 
 <div align="center">
@@ -26,7 +25,6 @@
 <br>
 <div align=center>
 	<h3>🔧 Tools 🔧</h3>
-	<p>✨ Platforms ✨</p>
 </div>
 	
 <div align="center">
