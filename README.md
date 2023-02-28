@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Sunghyun_git&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1:A3DCBE&height=150&section=header&text=Sunghyun_git&fontSize=70)
 
 <!--
 **Chosunghyun9806/Chosunghyun9806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
