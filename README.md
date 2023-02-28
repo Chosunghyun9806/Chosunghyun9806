@@ -5,7 +5,7 @@
 ***
 <div align=center>
 	<h3>🧒 About me 🧒</h3>
-	<a href="https://cobalt-system-7c5.notion.site/c8c77ac1832541268ab4eceb0e3bd2ad"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+	<h3>🖱️ click    <a href="https://cobalt-system-7c5.notion.site/c8c77ac1832541268ab4eceb0e3bd2ad"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>    click 🖱️</h3>
 </div>
 	
 <br>
