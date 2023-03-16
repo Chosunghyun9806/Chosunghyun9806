@@ -62,7 +62,7 @@
 	<br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chosunghyun9806&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ***
 
@@ -73,5 +73,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chosunghyun9806&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
