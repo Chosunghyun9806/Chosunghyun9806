@@ -21,7 +21,7 @@
 	<a href="https://pandas.pydata.org//"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" /></a>
 	<br>
 	<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white" /></a>
-	<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
+	<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
 	<a href="https://www.qt.io/"><img src="https://img.shields.io/badge/PyQT5-41CD52?style=flat&logo=Qt&logoColor=white" /></a>
 	<a href="https://ultralytics.com/yolov8"><img src="https://img.shields.io/badge/YOLOv8-149EF2?style=flat&logo=YOLO&logoColor=white" /></a>
 	<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" /></a>
