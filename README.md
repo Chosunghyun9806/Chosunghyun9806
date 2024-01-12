@@ -15,7 +15,7 @@
 
 <div align="center">
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
-	<a href="https://www.pytorch.org//"><img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=Pytorch&logoColor=white" /></a>
+	<a href="https://www.pytorch.org//"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" /></a>
 	<a href="https://www.tensorflow.org/?hl=ko"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" /></a>
 	<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" /></a>
 	<a href="https://pandas.pydata.org//"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" /></a>
